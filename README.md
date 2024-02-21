@@ -1,80 +1,129 @@
-### QAGURU
-- Web Automation
-- API automation
-- Mobile automation
-- Test Management
-- Infrastructure and notifications
+<table>
+  <tr>
+    <th colspan="2" style="text-align:center;"><h3>QAGURU</h3></th>
+  </tr>
+  <tr>
+    <td width="30%">
+<br>Web Automation
+<br>API automation
+<br>Mobile automation
+<br>Test Management
+<br>Infrastructure and notifications
+
+  </td>
+    <td width="70%">
+      <img src="image/qaguru.png" width="100%" title="QAGURU">
+    </td>
+  </tr>
   
-<img align="right" width="100%" title="QAGURU" src="image/qaguru.png">
+  <tr>
+    <th colspan="2" style="text-align:center;"><h3>[Yandex EdTech] Web Application Testing In Python</h3></th>
+  </tr>
+  <tr>
+    <td width="30%">
 
-### ____________________________________________________________________________________________
+<br>Python Foundations
+<br>Pytest
+<br>UI testing
+<br>Test Reports
+<br>Web Application Architecture
 
-
-### [Yandex EdTech] Web Application Testing In Python
-- Python Foundations
-- Pytest
-- UI testing
-- Test Reports
-- Web Application Architecture
+  </td>
+    <td width="70%">
+      <img src="image/yadex_p-1.png" width="100%" title="Yandex">
+      <img src="image/yadex_p-2.png" width="100%" title="Yandex">
+    </td>
+  </tr>
   
-<img align="center" width="100%" title="Yandex" src="image/yadex_p-1.png">
-<img align="right" width="100%" title="Yandex" src="image/yadex_p-2.png">
+  <tr>
+    <th colspan="2" style="text-align:center;"><h3>Automating testing with Selenium and Python</h3></th>
+  </tr>
+  <tr>
+    <td width="30%">
 
-### ____________________________________________________________________________________________
+<br>Web Automation
+<br>Selenium
+<br>Pytest
+<br>Using the Page Object Model pattern
 
-### Automating testing with Selenium and Python
-- Web Automation
-- Selenium
-- Pytest
-- Using the Page Object Model pattern
+  </td>
+    <td width="70%">
+      <img src="image/selenium-1.png" width="100%" title="Selenium">
+    </td>
+  </tr>
+  
+  <tr>
+    <th colspan="2" style="text-align:center;"><h3>LernQA</h3></th>
+  </tr>
+  <tr>
+    <td width="30%">
 
-<img align="right" width="100%" title="Selenium" src="image/selenium-1.png">
+<br>Test automation for REST API
+<br>API automation
+<br>Pytest
+<br>Request
 
-### ____________________________________________________________________________________________
+  </td>
+    <td width="70%">
+      <img src="image/request-1.png" width="100%" title="Request">
+    </td>
+  </tr>
+  
+  <tr>
+    <th colspan="2" style="text-align:center;"><h3>Software-testing</h3></th>
+  </tr>
+  <tr>
+    <td width="30%">
 
-## LernQA
-- Test automation for REST API
-- API automation
-- Pytest
-- Request
+<br>Test automation for REST API with Postman
+<br>API automation
+<br>Infrastructure & Notifications
+<br>Basics of JavaScript
+<br>Libraries node.js and chai.js
+<br>API Work
+<br>SQL
 
-<img align="right" width="100%" title="Request" src="image/request-1.png">
+  </td>
+    <td width="70%">
+      <img src="image/postman-1.png" width="100%" title="Software-testing">
+    </td>
+  </tr>
+  
+  <tr>
+    <th colspan="2" style="text-align:center;"><h3>Software Testing: Load testing using Jmeter</h3></th>
+  </tr>
+  <tr>
+    <td width="30%">
 
-### ____________________________________________________________________________________________
+<br>API automation
+<br>Load testing
+<br>Groovy
 
-## Software-testing
-- Test automation for REST API with Postman
-- API automation
-- Infrastructure & Notifications
-- Basics of JavaScript
-- Libraries node.js and chai.js
-- API Work
-- SQL
-<img align="right" width="100%" title="Software-testing" src="image/postman-1.png">
+  </td>
+    <td width="70%">
+      <img src="image/jmeter-1.png" width="100%" title="Jmeter">
+    </td>
+  </tr>
+  
+  <tr>
+    <th colspan="2" style="text-align:center;"><h3>SQL basics</h3></th>
+  </tr>
+  <tr>
+    <td width="30%">
 
-### ____________________________________________________________________________________________
+<br>Simple SQL queries
+<br>Add, change, delete
+<br>Creating Tables
+<br>Indexes
+<br>Search text
+<br>Data grouping
+<br>Multiple table queries (JOIN, UNION)
+<br>Nested queries
 
-## Software Testing: Load testing using Jmeter
-- API automation
-- Load testing
-- Groovy
-
-<img align="right" width="100%" title="Jmeter" src="image/jmeter-1.png">
-
-### ____________________________________________________________________________________________
-
-## SQL basics
-- Simple SQL queries
-- Add, change, delete
-- Creating Tables
-- Indexes
-- Search text
-- Data grouping
-- Multiple table queries (JOIN, UNION)
-- Nested queries
-
-<img align="right" width="100%" title="SQL" src="image/sql-1.png">
-
-### ____________________________________________________________________________________________
-
-
+  </td>
+    <td width="70%">
+      <img src="image/sql-1.png" width="100%" title="SQL">
+    </td>
+  </tr>
+  
+</table>
